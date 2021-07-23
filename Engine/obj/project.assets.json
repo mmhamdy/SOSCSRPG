@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Engine/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Engine.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Engine.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Engine/1.0.0": {
-      "type": "project",
-      "path": "../Engine/Engine.csproj",
-      "msbuildProject": "../Engine/Engine.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Engine >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Hamdy\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hamdy\\Desktop\\SOSCSRPG\\WPFUI\\WPFUI.csproj",
-      "projectName": "WPFUI",
-      "projectPath": "C:\\Users\\Hamdy\\Desktop\\SOSCSRPG\\WPFUI\\WPFUI.csproj",
+      "projectUniqueName": "C:\\Users\\Hamdy\\Desktop\\SOSCSRPG\\Engine\\Engine.csproj",
+      "projectName": "Engine",
+      "projectPath": "C:\\Users\\Hamdy\\Desktop\\SOSCSRPG\\Engine\\Engine.csproj",
       "packagesPath": "C:\\Users\\Hamdy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hamdy\\Desktop\\SOSCSRPG\\WPFUI\\obj\\",
+      "outputPath": "C:\\Users\\Hamdy\\Desktop\\SOSCSRPG\\Engine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hamdy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\Hamdy\\Desktop\\SOSCSRPG\\Engine\\Engine.csproj": {
-              "projectPath": "C:\\Users\\Hamdy\\Desktop\\SOSCSRPG\\Engine\\Engine.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -81,9 +58,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WPF": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"

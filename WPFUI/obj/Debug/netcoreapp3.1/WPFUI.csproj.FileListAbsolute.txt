@@ -17,3 +17,6 @@ C:\Users\Hamdy\Desktop\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.csproj.CoreC
 C:\Users\Hamdy\Desktop\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.dll
 C:\Users\Hamdy\Desktop\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.pdb
 C:\Users\Hamdy\Desktop\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.genruntimeconfig.cache
+C:\Users\Hamdy\Desktop\SOSCSRPG\WPFUI\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\Hamdy\Desktop\SOSCSRPG\WPFUI\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\Hamdy\Desktop\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.csproj.CopyComplete

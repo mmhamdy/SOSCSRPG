@@ -1,0 +1,8 @@
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.pdb
