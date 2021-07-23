@@ -1,4 +1,4 @@
-# simple-RPG
+# A Simple Role-playing Game
 
 
 ## Credits
