@@ -1,7 +1,24 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Locations\Home.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\Engine.deps.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\Engine.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\Engine.pdb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Locations\Home.png" />
+  </ItemGroup>
 
 </Project>
