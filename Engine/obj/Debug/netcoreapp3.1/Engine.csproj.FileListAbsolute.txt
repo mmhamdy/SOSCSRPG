@@ -7,3 +7,4 @@ C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.Cor
 C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.dll
 C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.pdb
 C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.g.resources
+C:\Users\Hamdy\Desktop\SOSCSRPG\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.AssemblyReference.cache
